@@ -98,4 +98,4 @@ Thank you for visiting my profile! Your time and interest are very important. If
 Obrigado por visitar meu perfil! Seu tempo e interesse são muito importantes. Se você tiver alguma dúvida ou quiser se conectar, sinta-se à vontade para entrar em contato.
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omg_eduu/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardosnts/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu.mnzs_/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edumnzs/)
