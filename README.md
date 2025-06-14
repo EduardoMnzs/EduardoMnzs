@@ -12,7 +12,7 @@ Boas-vindas ao meu perfil no GitHub. Um espaço dedicado à ciência e ao consta
 <div style="display: flex; flex-direction: column; gap: 16px;">
     <div>
         <h3 style="margin-bottom: 8px;">Development / Desenvolvimento</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 4px;">
+        <div style="display: flex; flex-wrap: wrap; gap: 4px; padding: 4px;">
             <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
             <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
             <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
